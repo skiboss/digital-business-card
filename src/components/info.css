@@ -1,0 +1,86 @@
+.image {
+    background: url('../assets/scrim.jpg') no-repeat center/cover;
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0 0;
+}
+
+.name {
+    padding: 21px 0 6px;
+    font-size: 20px;
+}
+
+.title {
+    color: #F3BF99;
+    font-size: 12.8px;
+}
+
+.site {
+    padding: 8px 0 15px;
+    font-size: 10.24px;
+}
+
+.site a {
+    color: #F5F5F5;
+    text-decoration: none;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 1rem; */
+}
+
+.contact .in button {
+    background-color: #5093E2;
+    color: #ffffff;
+}
+
+.contact .email button:hover {
+    font-size: 0.95rem;
+    transition: 0.2s ease-in all;
+    width: 115px;
+    height: 36px;
+}
+
+.contact .in button:hover {
+    font-size: 0.95rem;
+    transition: 0.2s ease-in all;
+    width: 115px;
+    height: 36px;
+}
+
+.contact .email button {
+    color: #374151;
+}
+
+.fa-envelope {
+    color: #1E1F26;
+}
+
+.contact button {
+    width: 115px;
+    height: 34px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.contact button i {
+    font-size: 1rem;
+    padding-right: 8px;
+}
+
+.contact a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+

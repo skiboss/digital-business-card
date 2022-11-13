@@ -1,0 +1,19 @@
+.icons {
+    padding: 19px 36px 19px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #161619;
+    border-radius: 0 0 10px 10px;
+    font-size: 25px;
+}
+
+.icons a {
+    color: #918E9B;
+}
+
+.icons i:hover {
+    cursor: pointer;
+}
+
+
