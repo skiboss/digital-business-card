@@ -1,0 +1,21 @@
+.details {
+    padding-top: 9px;
+    text-align: left;
+}
+
+.details h4 {
+    color: #F5F5F5;
+    font-size: 1rem;
+    line-height: 150%;
+}
+
+.details p {
+    color: #DCDCDC;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+}
+
+.interests {
+    padding-top: 17px;
+}
