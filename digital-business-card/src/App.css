@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background-color: #23252C;
+  text-align: center;
+  padding: 44px 0;
+  color: #ffffff;
+  font-family: Inter, sans-serif;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.main {
+  /* width: 50%; */
+  max-width: 317px;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding-bottom: 44px;
+}
+
+.content {
+  padding: 0 36px 34px;  
+  background-color: #1A1B21;
+}
+
+
